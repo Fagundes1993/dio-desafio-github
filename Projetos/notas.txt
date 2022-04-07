@@ -1,0 +1,4 @@
+Rafael, 10, 10, 5, 5
+Leonardo, 7, 8, 9, 6
+Donatello, 8, 8, 9, 4
+Michelangelo, 7, 5, 9, 8
